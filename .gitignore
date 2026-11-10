@@ -1,0 +1,16 @@
+# Segredos
+.env
+
+# Ambiente virtual e cache do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Logs gerados em execução
+logs/*.log*
+
+# Sistema
+.DS_Store
+Thumbs.db
